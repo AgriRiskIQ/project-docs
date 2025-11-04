@@ -251,8 +251,7 @@ Please see CONTRIBUTING.md for guidelines.
 If you use this work in research, please cite:
 ```
 AgriRiskIQ: AI-Powered Continuous Risk Monitoring for Agricultural Finance
-[Your Names], 2025
-GitHub: https://github.com/yourusername/agririskiq
+, 2025
 ```
 
 ## License
@@ -262,8 +261,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## Contact
 
 **Project Team:** agririsk
-**Email:** jumaochi12gmail.com
-**Competition:** Data Governance in Africa - AI for Sustainability Challenge]
+**Email:** jumaochi1gmail.com
+**Competition:** Data Governance in Africa - AI for Sustainability Challenge
 
 ## Acknowledgments
 
